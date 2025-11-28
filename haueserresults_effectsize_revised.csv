@@ -1,0 +1,65 @@
+Variable,Stage,Metric,effect,effect_low,effect_high,significant
+Mean Alpha PD difference,Colonisation,Any plants in plot,1.8806717,0.4653234,3.296019999,Y
+Climate dissimilarity (temp.),Colonisation,Any plants in plot,0.1831063,-0.9108533,1.277065856,N
+Climate dissimilarity (precip.),Colonisation,Any plants in plot,-0.9085171,-2.070827,0.253792726,N
+Undisturbed,Colonisation,Any plants in plot,-3.6441688,-4.3460899,-2.942247672,Y
+Phylogenetic distance,Colonisation,Any plants in plot,-0.324826,-0.642704,-0.006947904,Y
+Heating,Colonisation,Any plants in plot,-0.8551542,-1.4394618,-0.270846632,Y
+Alpha PD diff. x Undisturbed,Colonisation,Any plants in plot,,,,
+Alpha PD diff. x Climate (temp.),Colonisation,Any plants in plot,,,,
+Mean Alpha PD difference,First growing season,Any plants in plot,1.74E+00,0.5375006,2.9488265,Y
+Climate dissimilarity (temp.),First growing season,Any plants in plot,5.42E-01,-0.4384427,1.5215854,N
+Climate dissimilarity (precip.),First growing season,Any plants in plot,-3.06E-01,-1.2422203,0.6303322,N
+Undisturbed,First growing season,Any plants in plot,-4.09E-01,-1.5088581,0.6913964,N
+Phylogenetic distance,First growing season,Any plants in plot,-4.53E-02,-0.5064421,0.4158269,N
+Heating,First growing season,Any plants in plot,-1.03E+00,-1.7653033,-0.2933456,Y
+Alpha PD diff. x Undisturbed,First growing season,Any plants in plot,,,,
+Alpha PD diff. x Climate (temp.),First growing season,Any plants in plot,,,,
+Mean Alpha PD difference,Overwinter,Any plants in plot,-2.64E+00,-5.28983718,0.002966779,N
+Climate dissimilarity (temp.),Overwinter,Any plants in plot,-6.92E-01,-1.87717723,0.492370244,N
+Climate dissimilarity (precip.),Overwinter,Any plants in plot,-2.15E+00,-3.58952767,-0.707229342,Y
+Undisturbed,Overwinter,Any plants in plot,-1.24E+00,-2.45614953,-0.016860267,Y
+Phylogenetic distance,Overwinter,Any plants in plot,-3.85E-01,-0.93030659,0.160935485,N
+Heating,Overwinter,Any plants in plot,7.98E-01,-0.04816283,1.643992151,N
+Alpha PD diff. x Undisturbed,Overwinter,Any plants in plot,,,,
+Alpha PD diff. x Climate (temp.),Overwinter,Any plants in plot,2.90E+00,-0.03775138,5.830502563,Y
+Mean Alpha PD difference,Second growing season,Any plants in plot,-7.98E-02,-1.4267034,1.26717834,N
+Climate dissimilarity (temp.),Second growing season,Any plants in plot,1.16E-02,-1.0584574,1.08156856,N
+Climate dissimilarity (precip.),Second growing season,Any plants in plot,-9.04E-01,-2.2809525,0.4720677,N
+Undisturbed,Second growing season,Any plants in plot,-2.26E+00,-4.804376,0.27446697,N
+Phylogenetic distance,Second growing season,Any plants in plot,-9.97E-02,-0.5663992,0.36701845,N
+Heating,Second growing season,Any plants in plot,-9.36E-01,-1.7948632,-0.07693521,Y
+Alpha PD diff. x Undisturbed,Second growing season,Any plants in plot,1.39E+01,-0.1239977,27.83882824,Y
+Alpha PD diff. x Climate (temp.),Second growing season,Any plants in plot,,,,
+Mean Alpha PD difference,Colonisation,Number of plants,0.83854375,0.24123299,1.4358545,Y
+Climate dissimilarity (temp.),Colonisation,Number of plants,-0.28780053,-0.75056238,0.17496132,N
+Climate dissimilarity (precip.),Colonisation,Number of plants,0.11262835,-0.28568762,0.51094433,N
+Undisturbed,Colonisation,Number of plants,-1.56771517,-2.27015085,-0.86527948,Y
+Phylogenetic distance,Colonisation,Number of plants,0.05682268,-0.05530392,0.16894928,N
+Heating,Colonisation,Number of plants,-0.30951844,-0.55251323,-0.06652366,Y
+Alpha PD diff. x Undisturbed,Colonisation,Number of plants,,,,
+Alpha PD diff. x Climate (temp.),Colonisation,Number of plants,,,,
+Mean Alpha PD difference,First growing season,Number of plants,0.59691968,0.19670998,0.99712938,Y
+Climate dissimilarity (temp.),First growing season,Number of plants,-0.21882753,-0.4818092,0.04415413,N
+Climate dissimilarity (precip.),First growing season,Number of plants,0.12233792,-0.16093253,0.40560838,N
+Undisturbed,First growing season,Number of plants,0.01836809,-0.3173327,0.35406889,N
+Phylogenetic distance,First growing season,Number of plants,-0.08559836,-0.21920101,0.04800429,N
+Heating,First growing season,Number of plants,-0.23711148,-0.46016198,-0.01406098,Y
+Alpha PD diff. x Undisturbed,First growing season,Number of plants,,,,
+Alpha PD diff. x Climate (temp.),First growing season,Number of plants,,,,
+Mean Alpha PD difference,Overwinter,Number of plants,3.36E-01,-0.13795914,0.8102607,N
+Climate dissimilarity (temp.),Overwinter,Number of plants,-1.45E-01,-0.53940065,0.2490618,N
+Climate dissimilarity (precip.),Overwinter,Number of plants,4.04E-01,0.01104949,0.796215,Y
+Undisturbed,Overwinter,Number of plants,-1.51E-01,-0.62739623,0.3245726,N
+Phylogenetic distance,Overwinter,Number of plants,1.11E-01,-0.04240661,0.2638059,N
+Heating,Overwinter,Number of plants,-1.39E-01,-0.38291509,0.1041544,N
+Alpha PD diff. x Undisturbed,Overwinter,Number of plants,,,,
+Alpha PD diff. x Climate (temp.),Overwinter,Number of plants,,,,
+Mean Alpha PD difference,Second growing season,Number of plants,3.67E-01,-0.23577821,0.9703226,N
+Climate dissimilarity (temp.),Second growing season,Number of plants,-1.63E-01,-0.64981442,0.3238548,N
+Climate dissimilarity (precip.),Second growing season,Number of plants,4.88E-01,-0.06556945,1.0424801,N
+Undisturbed,Second growing season,Number of plants,-8.36E-02,-0.65235197,0.485124,N
+Phylogenetic distance,Second growing season,Number of plants,1.76E-02,-0.17943427,0.2146725,N
+Heating,Second growing season,Number of plants,-5.05E-02,-0.34330171,0.2422619,N
+Alpha PD diff. x Undisturbed,Second growing season,Number of plants,,,,
+Alpha PD diff. x Climate (temp.),Second growing season,Number of plants,,,,
