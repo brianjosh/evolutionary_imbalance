@@ -1,0 +1,65 @@
+Variable,Stage,Metric,effect,effect_low,effect_high,significant
+Mean Alpha PD difference,Colonisation,Any plants in plot,1.8271604,0.4520921,3.20222865,Y
+Climate dissimilarity (temp.),Colonisation,Any plants in plot,0.2724743,-1.3553148,1.90026341,N
+Climate dissimilarity (precip.),Colonisation,Any plants in plot,-1.2726445,-2.9007869,0.35549787,N
+Undisturbed,Colonisation,Any plants in plot,-3.6441688,-4.3460899,-2.942247672,Y
+Phylogenetic distance,Colonisation,Any plants in plot,-0.6496466,-1.2854036,-0.01388966,Y
+Heating,Colonisation,Any plants in plot,-0.8551542,-1.4394618,-0.270846632,Y
+Alpha PD diff. x Undisturbed,Colonisation,Any plants in plot,,,,
+Alpha PD diff. x Climate (temp.),Colonisation,Any plants in plot,,,,
+Mean Alpha PD difference,First year,Any plants in plot,1.47E+00,0.4535064,2.4880203,Y
+Climate dissimilarity (temp.),First year,Any plants in plot,6.41E-01,-0.5191837,1.8017802,N
+Climate dissimilarity (precip.),First year,Any plants in plot,-3.57E-01,-1.4487006,0.7351073,N
+Undisturbed,First year,Any plants in plot,-4.09E-01,-1.5088581,0.6913964,N
+Phylogenetic distance,First year,Any plants in plot,-9.06E-02,-1.0128857,0.8316521,N
+Heating,First year,Any plants in plot,-1.03E+00,-1.7653033,-0.2933456,Y
+Alpha PD diff. x Undisturbed,First year,Any plants in plot,,,,
+Alpha PD diff. x Climate (temp.),First year,Any plants in plot,,,,
+Mean Alpha PD difference,Overwinter,Any plants in plot,-8.25E-01,-2.24703674,0.59743436,N
+Climate dissimilarity (temp.),Overwinter,Any plants in plot,-1.28E+00,-2.76961375,0.21948729,N
+Climate dissimilarity (precip.),Overwinter,Any plants in plot,-2.40E+00,-4.01540016,-0.791136,Y
+Undisturbed,Overwinter,Any plants in plot,-1.24E+00,-2.45614953,-0.016860267,Y
+Phylogenetic distance,Overwinter,Any plants in plot,-7.69E-01,-1.86061486,0.32186937,N
+Heating,Overwinter,Any plants in plot,7.98E-01,-0.04816283,1.643992151,N
+Alpha PD diff. x Undisturbed,Overwinter,Any plants in plot,,,,
+Alpha PD diff. x Climate (temp.),Overwinter,Any plants in plot,2.83E+00,-0.03688815,5.69796256,Y
+Mean Alpha PD difference,Second year,Any plants in plot,-5.96E-02,-1.06578547,0.94662089,N
+Climate dissimilarity (temp.),Second year,Any plants in plot,1.10E-02,-1.0070597,1.02903361,N
+Climate dissimilarity (precip.),Second year,Any plants in plot,-7.24E-01,-1.82685164,0.37809054,N
+Undisturbed,Second year,Any plants in plot,-4.62E+00,-9.28027667,0.03226782,N
+Phylogenetic distance,Second year,Any plants in plot,-1.99E-01,-1.13279952,0.73403474,N
+Heating,Second year,Any plants in plot,-9.36E-01,-1.7948632,-0.07693521,Y
+Alpha PD diff. x Undisturbed,Second year,Any plants in plot,1.04E+01,-0.0926382,20.79630811,Y
+Alpha PD diff. x Climate (temp.),Second year,Any plants in plot,,,,
+Mean Alpha PD difference,Colonisation,Number of plants,0.6414925,0.1845439,1.09844116,Y
+Climate dissimilarity (temp.),Colonisation,Number of plants,-0.3266769,-0.85193688,0.19858311,N
+Climate dissimilarity (precip.),Colonisation,Number of plants,0.1407344,-0.35698973,0.63845858,N
+Undisturbed,Colonisation,Number of plants,-1.56771517,-2.27015085,-0.86527948,Y
+Phylogenetic distance,Colonisation,Number of plants,0.1136442,-0.11060879,0.33789719,N
+Heating,Colonisation,Number of plants,-0.30951844,-0.55251323,-0.06652366,Y
+Alpha PD diff. x Undisturbed,Colonisation,Number of plants,,,,
+Alpha PD diff. x Climate (temp.),Colonisation,Number of plants,,,,
+Mean Alpha PD difference,First year,Number of plants,0.45501526,0.14994204,0.76008848,Y
+Climate dissimilarity (temp.),First year,Number of plants,-0.27442828,-0.60422566,0.0553691,N
+Climate dissimilarity (precip.),First year,Number of plants,0.14139046,-0.18597958,0.46876051,N
+Undisturbed,First year,Number of plants,0.01836809,-0.3173327,0.35406889,N
+Phylogenetic distance,First year,Number of plants,-0.17119603,-0.43840142,0.09600936,N
+Heating,First year,Number of plants,-0.23711148,-0.46016198,-0.01406098,Y
+Alpha PD diff. x Undisturbed,First year,Number of plants,,,,
+Alpha PD diff. x Climate (temp.),First year,Number of plants,,,,
+Mean Alpha PD difference,Overwinter,Number of plants,2.43E-01,-0.099866864,0.5865374,N
+Climate dissimilarity (temp.),Overwinter,Number of plants,-1.27E-01,-0.47046008,0.2172293,N
+Climate dissimilarity (precip.),Overwinter,Number of plants,3.34E-01,0.009133147,0.6581256,Y
+Undisturbed,Overwinter,Number of plants,-1.51E-01,-0.62739623,0.3245726,N
+Phylogenetic distance,Overwinter,Number of plants,2.21E-01,-0.084813226,0.5276119,N
+Heating,Overwinter,Number of plants,-1.39E-01,-0.38291509,0.1041544,N
+Alpha PD diff. x Undisturbed,Overwinter,Number of plants,,,,
+Alpha PD diff. x Climate (temp.),Overwinter,Number of plants,,,,
+Mean Alpha PD difference,Second year,Number of plants,2.72E-01,-0.17466343,0.7188106,N
+Climate dissimilarity (temp.),Second year,Number of plants,-1.52E-01,-0.60419849,0.3011208,N
+Climate dissimilarity (precip.),Second year,Number of plants,3.81E-01,-0.05119494,0.8139421,N
+Undisturbed,Second year,Number of plants,-8.36E-02,-0.65235197,0.485124,N
+Phylogenetic distance,Second year,Number of plants,3.52E-02,-0.35886854,0.429345,N
+Heating,Second year,Number of plants,-5.05E-02,-0.34330171,0.2422619,N
+Alpha PD diff. x Undisturbed,Second year,Number of plants,,,,
+Alpha PD diff. x Climate (temp.),Second year,Number of plants,,,,
