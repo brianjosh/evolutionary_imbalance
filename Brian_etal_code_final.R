@@ -1,4 +1,4 @@
-#Code for 'Plants that evolved in under high phylogenetic diversity have higher invasion success, particularly in undisturbed communities'
+#Code for 'Plants that evolved under high phylogenetic diversity have higher invasion success, particularly in undisturbed communities'
 #Joshua Brian, Mark van Kleunen, Wayne Dawson, Anne Kempel, Weihan Zhao, Jane Catford
 
 #Code prepared by Joshua Brian; joshua.brian@kcl.ac.uk OR jshbrian@gmail.com
@@ -1155,7 +1155,7 @@ effectplot <- ggplot(effectsizes, aes(x=effect, y=Variable, color=Stage, shape=s
   facet_grid(. ~ Metric, scales="free") +
   scale_color_viridis(discrete = TRUE, guide = guide_legend(reverse = TRUE)) +
   theme_bw() + geom_vline(xintercept=0, linetype="solid", color="grey", size=0.9) +
-  xlab("Effect size ± 95% C.I.") + guides(shape = "none") + theme(legend.position = "top") +
+  xlab("Effect size Â± 95% C.I.") + guides(shape = "none") + theme(legend.position = "top") +
   theme(axis.text=element_text(size=8),
         axis.title=element_text(size=10), 
         legend.text=element_text(size=8), 
@@ -3566,7 +3566,7 @@ hauesereffectplot <- ggplot(hauesereffectsizes, aes(x=effect, y=Variable, color=
   scale_x_continuous(trans='pseudo_log') +
   scale_color_viridis(discrete = TRUE, guide = guide_legend(reverse = TRUE)) +
   theme_bw() + geom_vline(xintercept=0, linetype="solid", color="grey", size=0.9) +
-  xlab("Effect size ± 95% C.I.") + guides(shape = "none") + theme(legend.position = "top") +
+  xlab("Effect size Â± 95% C.I.") + guides(shape = "none") + theme(legend.position = "top") +
   theme(axis.text=element_text(size=8),
         axis.title=element_text(size=10), 
         legend.text=element_text(size=8), 
@@ -7200,5 +7200,6 @@ summary(yr1_count_Mean_AlphaPhy_diff)
 
 mod <- psem(SLAmod, vegheightmod, seedmod, yr1_count_Mean_AlphaPhy_diff)
 summary(mod)
+
 
 
