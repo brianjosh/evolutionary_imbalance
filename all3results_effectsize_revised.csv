@@ -1,0 +1,57 @@
+Variable,Stage,Metric,effect,effect_low,effect_high,significant
+Mean Alpha PD,Colonisation,Any plants in plot,-0.23135218,-0.9402735,0.4775691,N
+Climate dissimilarity (temp.),Colonisation,Any plants in plot,0.03845145,-0.6783826,0.7552855,N
+Climate dissimilarity (precip.),Colonisation,Any plants in plot,0.05965351,-0.8430231,0.9623301,N
+Disturbed,Colonisation,Any plants in plot,1.23891293,1.0049712,1.4728546,Y
+Herbivory,Colonisation,Any plants in plot,,,,
+Alpha PD x Disturbed,Colonisation,Any plants in plot,,,,
+Alpha PD x Climate (temp.),Colonisation,Any plants in plot,,,,
+Mean Alpha PD,Colonisation,Number of plants,0.2827916,-0.07323048,0.6388137,N
+Climate dissimilarity (temp.),Colonisation,Number of plants,-0.31664793,-0.60618647,-0.0271094,Y
+Climate dissimilarity (precip.),Colonisation,Number of plants,0.33695353,-0.03048253,0.70438959,N
+Disturbed,Colonisation,Number of plants,0.24822482,0.09526668,0.40118296,Y
+Herbivory,Colonisation,Number of plants,,,,
+Alpha PD x Disturbed,Colonisation,Number of plants,-0.22570438,-0.43362175,-0.01778701,Y
+Alpha PD x Climate (temp.),Colonisation,Number of plants,,,,
+Mean Alpha PD,First year,Any plants in plot,1.8805847,0.5523584,3.208811,Y
+Climate dissimilarity (temp.),First year,Any plants in plot,0.6794027,-0.5415281,1.9003335,N
+Climate dissimilarity (precip.),First year,Any plants in plot,-3.7735819,-5.6176991,-1.9294648,Y
+Disturbed,First year,Any plants in plot,1.0466316,0.4207227,1.6725405,Y
+Herbivory,First year,Any plants in plot,-0.6278441,-1.3671519,0.1114638,N
+Alpha PD x Disturbed,First year,Any plants in plot,,,,
+Alpha PD x Climate (temp.),First year,Any plants in plot,,,,
+Mean Alpha PD,First year,Number of plants,0.535783098,0.17509986,0.89646634,Y
+Climate dissimilarity (temp.),First year,Number of plants,-0.332333816,-0.607878394,-0.05678924,Y
+Climate dissimilarity (precip.),First year,Number of plants,-0.00019802,-0.36648031,0.36608427,N
+Disturbed,First year,Number of plants,0.159087616,0.02465339,0.293521846,Y
+Herbivory,First year,Number of plants,-0.0909478,-0.229542187,0.047646587,N
+Alpha PD x Disturbed,First year,Number of plants,-0.216399015,-0.43017168,-0.002626346,Y
+Alpha PD x Climate (temp.),First year,Number of plants,,,,
+Mean Alpha PD,Overwinter,Any plants in plot,-0.299007,-1.3746766,0.7766626,N
+Climate dissimilarity (temp.),Overwinter,Any plants in plot,-0.8877347,-1.9379019,0.1624325,N
+Climate dissimilarity (precip.),Overwinter,Any plants in plot,-1.6646069,-2.8260151,-0.5031986,Y
+Disturbed,Overwinter,Any plants in plot,1.8951803,1.3232342,2.4671264,Y
+Herbivory,Overwinter,Any plants in plot,-0.959975,-1.5138113,-0.4061387,Y
+Alpha PD x Disturbed,Overwinter,Any plants in plot,,,,
+Alpha PD x Climate (temp.),Overwinter,Any plants in plot,,,,
+Mean Alpha PD,Overwinter,Number of plants,0.197511,-0.16079953,0.5558215,N
+Climate dissimilarity (temp.),Overwinter,Number of plants,-0.134535875,-0.51615927,0.2470875,N
+Climate dissimilarity (precip.),Overwinter,Number of plants,0.292692857,-0.1349075,0.7202932,N
+Disturbed,Overwinter,Number of plants,0.463569337,0.20178329,0.72535538,Y
+Herbivory,Overwinter,Number of plants,-0.029623421,-0.259358733,0.20011189,N
+Alpha PD x Disturbed,Overwinter,Number of plants,,,,
+Alpha PD x Climate (temp.),Overwinter,Number of plants,,,,
+Mean Alpha PD,Second year,Any plants in plot,0.39092464,-0.7167294,1.4985787,N
+Climate dissimilarity (temp.),Second year,Any plants in plot,-0.99460376,-2.3558425,0.3666349,N
+Climate dissimilarity (precip.),Second year,Any plants in plot,-2.72398297,-4.3159989,-1.131967,Y
+Disturbed,Second year,Any plants in plot,1.3721054,0.1443329,2.5998779,Y
+Herbivory,Second year,Any plants in plot,,,,
+Alpha PD x Disturbed,Second year,Any plants in plot,,,,
+Alpha PD x Climate (temp.),Second year,Any plants in plot,3.2488144,0.696997,5.8006318,Y
+Mean Alpha PD,Second year,Number of plants,0.122669524,-0.260279888,0.505618936,N
+Climate dissimilarity (temp.),Second year,Number of plants,0.01208372,-0.414044599,0.438212038,N
+Climate dissimilarity (precip.),Second year,Number of plants,0.361881433,-0.145233134,0.868996,N
+Disturbed,Second year,Number of plants,0.07569627,-0.294269777,0.445662316,N
+Herbivory,Second year,Number of plants,,,,
+Alpha PD x Disturbed,Second year,Number of plants,,,,
+Alpha PD x Climate (temp.),Second year,Number of plants,,,,
